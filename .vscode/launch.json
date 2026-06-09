@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/HIMANSHU/Day-4",
       "program": "c:/Users/HIMANSHU/Day-4/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/HIMANSHU/Day-3",
+      "program": "c:/Users/HIMANSHU/Day-3/build/Debug/outDebug",
+>>>>>>> 7969a55acd2fa91ac5e648fc17f3ae34441904c3
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
